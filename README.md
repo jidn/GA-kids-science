@@ -34,7 +34,7 @@ The results of these runs were kept in a SQLite database.  We kept a record of a
 
 ## Results
 
-The computer would print out the number of actions before a solution was found which completed the scent trail.  The kids were a bit underwhelmed by just a number.  They needed some visualization.  I created `imager.py` which created a series of images showing how the 
+The computer would print out the number of actions before a solution was found which completed the scent trail.  The kids were a bit underwhelmed by just a number.  They needed some visualization.  I created `imager.py` which created a series of images showing how the
 virtual bloodhound searched the field. They giving all these images to `image2gif`, I now had an image the kids could not only see, but use to demonstrate the outcome of some of their most successful and worst wonderings.
 
-![48 state run](:web/images/clinton48-id326.gif)
+![48 state run](web/images/clinton48-id326.gif)
